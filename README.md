@@ -1,4 +1,5 @@
 # Fase-4-proyecto
+
 import cv2
 from cvzone.HandTrackingModule import HandDetector 
 import numpy as np
